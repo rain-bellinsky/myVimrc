@@ -3,7 +3,7 @@ my .vimrc for scheme and other language with plugins
 
 basic settings follows [amix/vimrc](https://github.com/amix/vimrc), with minor modification
 
-##how it looks
+## how it looks
 
 <img src="https://github.com/rain-bellinsky/myVimrc/blob/master/screenshot1.png" height="450">
 
