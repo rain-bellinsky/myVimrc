@@ -156,7 +156,7 @@ syntax enable
 
 "set t_Co=256
 
-" not working with tmux, use 256 colors instead
+" if not working with tmux or others, use 256 colors(uncomment above) instead
 if has("termguicolors")
    set termguicolors
 endif
