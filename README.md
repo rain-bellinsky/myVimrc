@@ -63,7 +63,6 @@ fi
 #comment either one with # to see if it works:
 set -g default-terminal "screen-256color"
 #set -g default-terminal "xterm-256color"
-
 ```
 
   In most cases, this will solve your problem.
