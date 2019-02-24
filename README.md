@@ -1,5 +1,5 @@
 # myVimrc
-my .vimrc for scheme and other language with plugins
+my .vimrc for scheme and other language, with a monokai theme and useful plugins
 
 basic settings follows [amix/vimrc](https://github.com/amix/vimrc), with minor modification
 
