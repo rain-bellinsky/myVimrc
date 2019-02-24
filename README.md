@@ -5,7 +5,9 @@ basic settings follows [amix/vimrc](https://github.com/amix/vimrc), with minor m
 
 ##how it looks
 
-<img src="https://github.com/rain-bellinsky/myVimrc/blob/master/screenshot.png" height="450">
+<img src="https://github.com/rain-bellinsky/myVimrc/blob/master/screenshot1.png" height="450">
+
+<img src="https://github.com/rain-bellinsky/myVimrc/blob/master/screenshot2.png" height="450">
 
 ## how to use
 
